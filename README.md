@@ -1,2 +1,2 @@
-# codingChalleng
+# codingChallenge
 Description
